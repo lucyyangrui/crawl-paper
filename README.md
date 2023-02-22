@@ -4,7 +4,7 @@
 
 #### 标准使用方法
 
-首先查看自己的chrome版本，之后在这里下载相应版本的driver，解压出来的.exe文件就放在根目录下就好。
+首先查看自己的chrome版本，之后在[这里](https://chromedriver.chromium.org/downloads)下载相应版本的driver，解压出来的.exe文件就放在根目录下就好。
 
 main函数的四个参数：
 
