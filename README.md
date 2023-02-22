@@ -25,11 +25,11 @@ PPS：dblp有反爬，尽量避免多次尝试。
 
 最终得到的csv文件：
 
-![image-20230222212447870](.\figure\info-csv.png)
+![image-20230222212447870](https://github.com/lucyyangrui/crawl-paper/blob/main/figure/info-csv.png)
 
 然后需要手动上 https://ccf.atom.im/ 检索一下site栏的会议/期刊属于A/B/C，最后可以得到这种：
 
-![image-20230222212640618](.\figure\last.png)
+![image-20230222212640618](https://github.com/lucyyangrui/crawl-paper/blob/main/figure/last.png)
 
 
 
