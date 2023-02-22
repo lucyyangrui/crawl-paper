@@ -1,0 +1,40 @@
+year,type,title,url,site,
+2022,Conference,Cross-Modal Retrieval with Heterogeneous Graph Embedding.,https://dblp.org/db/conf/mm/mm2022.html#ChenWC00P22,30th ACM Multimedia 2022: Lisboa,
+2022,Conference,Inferring Speaking Styles from Multi-modal Conversational Context by Multi-scale Relational Graph Convolutional Networks.,https://dblp.org/db/conf/mm/mm2022.html#LiMW0JMTWW22,30th ACM Multimedia 2022: Lisboa,
+2022,Conference,Unified QA-aware Knowledge Graph Generation Based on Multi-modal Modeling.,https://dblp.org/db/conf/mm/mm2022.html#QinYGXCWXCH22,30th ACM Multimedia 2022: Lisboa,
+2022,Conference,Multi-modal Graph Contrastive Learning for Micro-video Recommendation.,https://dblp.org/db/conf/sigir/sigir2022.html#Yi0OM22,45th SIGIR 2022: Madrid,A
+2022,Conference,Graph Network based Approaches for Multi-modal Movie Recommendation System.,https://dblp.org/db/conf/smc/smc2022.html#ChakderMRSGO22,SMC 2022: Prague,C
+2021,Journal,Graph-Based Hand-Object Meshes and Poses Reconstruction With Multi-Modal Input.,https://dblp.org/db/journals/access/access9.html#AlmadaniEMS21,IEEE Access,
+2021,Journal,"COVID-19 Knowledge Graph: a computable, multi-modal, cause-and-effect knowledge model of COVID-19 pathophysiology.",https://dblp.org/db/journals/bioinformatics/bioinformatics37.html#Domingo-Fernandez21,Bioinformatics,B
+2021,Journal,Oracle Bone Inscriptions information processing based on multi-modal knowledge graph.,https://dblp.org/db/journals/cee/cee92.html#XiongLLL21,Computers & Electrical Engineering,
+2021,Journal,LinkNet: 2D-3D linked multi-modal network for online semantic segmentation of RGB-D videos.,https://dblp.org/db/journals/cg/cg98.html#CaiMLH21,Computers & Graphics,C
+2021,Journal,Multi-modal image synthesis combining content-style adaptive normalization and attentive normalization.,https://dblp.org/db/journals/cg/cg98.html#ZhangPNXZQ21,Computers & Graphics,C
+2021,Journal,"Glioblastoma multiforme prognosis: MRI missing modality generation, segmentation and radiogenomic survival prediction.",https://dblp.org/db/journals/cmig/cmig91.html#IslamWR21,Computerized Medical Imaging and Graphics,
+2021,Journal,Is the suggested food your desired?: Multi-modal recipe recommendation with demand-based knowledge graph.,https://dblp.org/db/journals/eswa/eswa186.html#LeiHZSZ21,Expert Systems with Applications,C
+2021,Journal,Session-based news recommendations using SimRank on multi-modal graphs.,https://dblp.org/db/journals/eswa/eswa180.html#SymeonidisKZ21,Expert Systems with Applications,C
+2021,Journal,Multi-Modal Input Mode via Graph Neural Networks for Outfit Compatibility.,https://dblp.org/db/journals/ijpe/ijpe17.html#WuLJSL21,International Journal of Performability Engineering,
+2021,Journal,Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI.,https://dblp.org/db/journals/inffus/inffus71.html#HolzingerMSP21,Information Fusion,
+2021,Journal,Pay attention to doctor-patient dialogues: Multi-modal knowledge graph attention image-text embedding for COVID-19 diagnosis.,https://dblp.org/db/journals/inffus/inffus75.html#ZhengYGZZHW21,Information Fusion,
+2021,Journal,Bridging multimedia heterogeneity gap via Graph Representation Learning for cross-modal retrieval.,https://dblp.org/db/journals/nn/nn134.html#ChengG21,Neural Networks,B
+2021,Journal,Ensemble Manifold Regularized Multi-Modal Graph Convolutional Network for Cognitive Ability Prediction.,https://dblp.org/db/journals/tbe/tbe68.html#QuXHWZCW21,IEEE Transactions on Biomedical Engineering,
+2021,Journal,Multi-Modal Interaction Graph Convolutional Network for Temporal Language Localization in Videos.,https://dblp.org/db/journals/tip/tip30.html#ZhangHSYN21,IEEE Transactions on Image Processing,A
+2021,Journal,Knowledge-aware Multi-modal Adaptive Graph Convolutional Networks for Fake News Detection.,https://dblp.org/db/journals/tomccap/tomccap17.html#QianHFX21,ACM Transactions on Multimedia Computing,B
+2021,Conference,Dynamic Graph Representation Learning for Video Dialog via Multi-Modal Shuffled Transformers.,https://dblp.org/db/conf/aaai/aaai2021.html#GengGCHRZLC21,35th AAAI 2021: Virtual Event,A
+2021,Conference,Dual Adversarial Graph Neural Networks for Multi-label Cross-modal Retrieval.,https://dblp.org/db/conf/aaai/aaai2021.html#QianXZFX21,35th AAAI 2021: Virtual Event,A
+2021,Conference,Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance.,https://dblp.org/db/conf/aaai/aaai2021.html#ZhangWLWZZ21,35th AAAI 2021: Virtual Event,A
+2021,Conference,GVUI: Graphic-Assisted Voice User Interface Based on Multi-modal Human-Machine Conversation.,https://dblp.org/db/conf/ahfe/ahfe2021-17.html#ZhouL21a,AHFE 2021: Virtual Event,
+2021,Conference,Heterogeneous Graph Convolutional Network integrates Multi-modal Similarities for Drug-Target Interaction Prediction.,https://dblp.org/db/conf/bibm/bibm2021.html#0007SWNLY21,BIBM 2021: Houston,B
+2021,Conference,Object Interaction Recommendation with Multi-Modal Attention-based Hierarchical Graph Neural Network.,https://dblp.org/db/conf/bigdataconf/bigdataconf2021.html#ZhangLW21,BigData Conference 2021: Orlando,
+2021,Conference,AliMe MKG: A Multi-modal Knowledge Graph for Live-streaming E-commerce.,https://dblp.org/db/conf/cikm/cikm2021.html#XuCLSSZZZZ21,30th CIKM 2021: Virtual Event,B
+2021,Conference,Multi-Modal Relational Graph for Cross-Modal Video Moment Retrieval.,https://dblp.org/db/conf/cvpr/cvpr2021.html#ZengCW0ZQ21,CVPR 2021,A
+2021,Conference,Multi-label Image Recognition Based on Multi-modal Graph Convolutional Networks Using Captioning Features.,https://dblp.org/db/conf/gcce/gcce2021.html#LanMOH21,10th GCCE 2021: Kyoto,
+2021,Conference,BS-GAENets: Brain-Spatial Feature Learning Via a Graph Deep Autoencoder for Multi-modal Neuroimaging Analysis.,https://dblp.org/db/conf/grapp/selection2021.html#HanachiSF21,VISIGRAPP 2021: Virtual Event,
+2021,Conference,RGB-Infrared Person Re-Identification Via Multi-Modality Relation Aggregation and Graph Convolution Network.,https://dblp.org/db/conf/icip/icip2021.html#SunZ21,ICIP 2021: Anchorage,C
+2021,Conference,Multi-Graph Based Hierarchical Semantic Fusion for Cross-Modal Representation.,https://dblp.org/db/conf/icmcs/icme2021.html#ZhuZSLZL21,ICME 2021: Shenzhen,B
+2021,Conference,Multi-modal Code Summarization Fusing Local API Dependency Graph and AST.,https://dblp.org/db/conf/iconip/iconip2021-5.html#GaoJWWLL21,28th ICONIP 2021: Sanur,C
+2021,Conference,Multi-Modal Motion Planning Using Composite Pose Graph Optimization.,https://dblp.org/db/conf/icra/icra2021.html#BeyerBTK21,ICRA 2021: Xi'an,B
+2021,Conference,Multi-Modal Multi-Instance Multi-Label Learning with Graph Convolutional Network.,https://dblp.org/db/conf/ijcnn/ijcnn2021.html#HangWZ21,IJCNN 2021: Shenzhen,C
+2021,Conference,Multi-modal Navigation Interaction Recommendation with a Driver Demand-Based Knowledge Graph.,https://dblp.org/db/conf/jist/ijckg2021.html#ChenMZB21,10th IJCKG 2021: Virtual Event,
+2021,Conference,StairwayGraphNet for Inter- and Intra-modality Multi-resolution Brain Graph Alignment and Synthesis.,https://dblp.org/db/conf/miccai/mlmi2021.html#MhiriMR21,12th MLMI@MICCAI 2021: Strasbourg,
+2021,Conference,Multi-Feature Graph Attention Network for Cross-Modal Video-Text Retrieval.,https://dblp.org/db/conf/mir/icmr2021.html#HaoZWZLW21,ICMR 2021: Taipei,B
+2021,Conference,M2GUDA: Multi-Metrics Graph-Based Unsupervised Domain Adaptation for Cross-Modal Hashing.,https://dblp.org/db/conf/mir/icmr2021.html#ZhangZZZCZ21,ICMR 2021: Taipei,B
